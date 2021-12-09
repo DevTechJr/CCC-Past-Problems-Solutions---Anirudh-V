@@ -1,1 +1,1 @@
-run = "python parkingSpotsProblem.py"
+run = "python tarifa.py"
